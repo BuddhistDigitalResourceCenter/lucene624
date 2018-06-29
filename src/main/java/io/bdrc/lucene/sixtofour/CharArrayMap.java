@@ -39,7 +39,7 @@ import java.util.Set;
  * by char[] keys without the necessity of converting
  * to a String first.
  */
-public class CharArrayMap<V> extends AbstractMap<Object,V> {
+class CharArrayMap<V> extends AbstractMap<Object,V> {
     // private only because missing generics
     private static final CharArrayMap<?> EMPTY_MAP = new EmptyCharArrayMap<>();
 
