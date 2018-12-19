@@ -1,4 +1,4 @@
-# lucene 6 to 4
+# lucene 6 to 4 
 
 This repository contains a bunch of convenience classes for the use of Lucene 6 code in Lucene 4. It probably misses many classes, but PRs are welcome!
 
